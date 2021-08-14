@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing qualitative research.
 - 🌱 I’m currently learning research methodologies.
 - 💞️ I’m looking to collaborate on research study with global scope.
-- 📫 How to reach me? Kindly enail me at Laleolaw@yahoo.com
+- 📫 How to reach me? Kindly email me at Laleolaw@yahoo.com
 
 <!---
 Leo-GH2021/Leo-GH2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
